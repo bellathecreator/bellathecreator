@@ -1,8 +1,7 @@
-## Oi! sou a Isabella, estudante de TI na Germinare TECH!
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=bellathecreator&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Olá, meu nome é Bella!
 
-![Elle's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellathecreator&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellathecreator&layout=compact&theme=radical)
+<img src="https://img.shields.io/static/v1?label=Overview&message=Bellameba&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Estudando na Germinare TECH<br/> Desenvolvedora full-stack</p>
