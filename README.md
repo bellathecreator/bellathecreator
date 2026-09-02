@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF8DA1&section=header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF8DA1&section=header">
 
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=FF8DA1&size=30&font=Poppins&width=1000&lines=Olá,+eu+sou+a+Isabella+Gimenes!">
 
@@ -30,7 +30,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marianamarrao/marianamarrao/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marianamarrao/marianamarrao/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marianamarrao/marianamarrao/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bellathecreator/bellathecreator/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bellathecreator/bellathecreator/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bellathecreator/bellathecreator/output/github-contribution-grid-snake.svg">
 </picture>
