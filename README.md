@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF8DA1&section=header">
 
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=FF8DA1&size=30&font=Poppins&width=1000&lines=Olá,+eu+sou+a+Isabella+Gimenes!">
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=FF8DA1&size=30&font=Poppins&width=1000&lines=Olá,+eu+me+chamo+Isabella+Gimenes,+Bem+vindo(a)+ao+meu+perfil!">
 
 ### Sobre mim
 
